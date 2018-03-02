@@ -1,5 +1,5 @@
-#Fmt
-To use [nlohman/json](https://github.com/nlohmann/json) in [ZPM](http://zpm.zefiros.eu), just use:
+# Json
+To use [json](https://github.com/nlohmann/json) in [ZPM](http://zpm.zefiros.eu), just use:
 
 # [ZPM](http://zpm.zefiros.eu) Installation
 In `.package.yml`
